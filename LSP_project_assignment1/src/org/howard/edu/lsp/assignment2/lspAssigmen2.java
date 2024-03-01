@@ -1,3 +1,7 @@
+/*
+Name: Valentine Ezikeoha
+*/
+
 package org.howard.edu.lsp.assignment2;
 import java.io.BufferedReader;
 import java.io.FileReader;
