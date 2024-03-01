@@ -12,7 +12,7 @@ public class lspAssigmen2 {
 		
 		Map<String,Integer> wordFrequency = new HashMap () ;
 		String line;
-		String filePath = "src/org/howard/edu/lsp/assignment2/words.txt";
+		String filePath = "src/org/howard/edu/l sp/assignment2/words.txt";
 		 try {
 			 BufferedReader fileReader = new BufferedReader (new FileReader (filePath));
 			 while ((line = fileReader.readLine ()) != null) {
