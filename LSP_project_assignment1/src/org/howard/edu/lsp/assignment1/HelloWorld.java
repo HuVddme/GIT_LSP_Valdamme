@@ -1,6 +1,5 @@
-/**
-*  Name: Valentine Ezikeoha
-*/
+//Name: Valentine Ezikeoha
+
 
 
 package org.howard.edu.lsp.assignment1;
